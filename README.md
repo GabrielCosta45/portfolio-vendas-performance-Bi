@@ -49,9 +49,7 @@ Construir um painel dinâmico com foco nas seguintes análises:
 
 ## 🖼️ Preview do Dashboard
 
-<img src=""![Captura de tela 2025-04-17 153437](https://github.com/user-attachments/assets/5364732b-c1b6-4055-8208-7f77b394a037)
-lt="Preview Dashboard Power BI" width="800"/>
-
+"![Captura de tela 2025-04-17 153437](https://github.com/user-attachments/assets/5364732b-c1b6-4055-8208-7f77b394a037)
 
 ---
 
