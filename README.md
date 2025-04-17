@@ -15,7 +15,7 @@ Construir um painel dinâmico com foco nas seguintes análises:
 - Indicadores de KPIs de vendas
 - Análise por segmento de cliente
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Ferramentas Utilizadas
 
@@ -35,7 +35,7 @@ Construir um painel dinâmico com foco nas seguintes análises:
 | `dataset.sql` / `.xlsx` | Base de dados original utilizada para conexão e análise. |
 | `imagens/` | Capturas de tela do dashboard para visualização rápida. |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧠 Funcionalidades do Dashboard
 
@@ -49,7 +49,7 @@ Construir um painel dinâmico com foco nas seguintes análises:
 
 ## 🖼️ Preview do Dashboard
 
-"![Captura de tela 2025-04-17 153437](https://github.com/user-attachments/assets/5364732b-c1b6-4055-8208-7f77b394a037)
+![Captura de tela 2025-04-17 153437](https://github.com/user-attachments/assets/5364732b-c1b6-4055-8208-7f77b394a037)
 
 ---
 
@@ -60,7 +60,7 @@ Construir um painel dinâmico com foco nas seguintes análises:
 3. Caso utilize base externa (MySQL/Excel), atualize o caminho da fonte de dados.
 4. Explore os gráficos, filtros e interações.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🙋‍♂️ Desenvolvido por
 
